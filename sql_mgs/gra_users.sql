@@ -1,0 +1,2 @@
+INSERT INTO gra.users (id, username, password, registertime, online, coins, email, latitude, longitude) VALUES (1, 'Piotr', '$2a$11$7r2lVBLzpD3Xu9DGtcpfjOHG4KSb5BxNqqgvQ9za6eYEymhD6iFtW', 1547386885, 1547397690, 998, 'z@x.x', 49.5115119, 20.9794632);
+INSERT INTO gra.users (id, username, password, registertime, online, coins, email, latitude, longitude) VALUES (2, 'Jarek', '$2a$11$7r2lVBLzpD3Xu9DGtcpfjOHG4KSb5BxNqqgvQ9za6eYEymhD6iFtW', 1546850696, 0, 1000, 'a', 50.06143, 19.93658);

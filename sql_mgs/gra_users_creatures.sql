@@ -1,0 +1,2 @@
+INSERT INTO gra.users_creatures (id, creatures_id, users_id, name, health, happy, hungry, createtime, current) VALUES (1, 10, 1, 'Piotr', 80, 80, 80, 1544379062, 1);
+INSERT INTO gra.users_creatures (id, creatures_id, users_id, name, health, happy, hungry, createtime, current) VALUES (3, 5, 2, 'Jarek', 80, 80, 80, 1544705249, 1);

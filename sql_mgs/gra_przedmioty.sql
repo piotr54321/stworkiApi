@@ -1,0 +1,15 @@
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (1, 'Cola', '1', 5, 1);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (2, 'Woda', '2', 2, 1);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (3, 'Pepsi', '3', 6, 1);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (4, 'Mleko', '4', 3, 1);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (5, 'Sok pomarańczowy', '5', 4, 1);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (6, 'Jabłko', '6', 3, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (7, 'Truskawka', '7', 2, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (8, 'Mango', '8', 4, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (9, 'Arbuz', '9', 5, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (10, 'Frytki', '10', 7, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (11, 'Burger', '11', 6, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (12, 'Pizza', '12', 5, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (13, 'Wafle', '13', 3, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (14, 'Kukurydza', '14', 3, 2);
+INSERT INTO gra.przedmioty (id_przedmiotu, nazwa, fotografia, cena, id_kategoria) VALUES (15, 'Krewetka', '15', 8, 2);

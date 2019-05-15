@@ -1,0 +1,3 @@
+INSERT INTO gra.logs (id, text) VALUES (11, '{"\\/jsonapi\\/api\\/user":""}');
+INSERT INTO gra.logs (id, text) VALUES (12, '{"id":null,"username":"Piotrd","newusername":null,"password":"1","registertime":null,"online":null,"coins":null,"code":null,"email":"x@x.pl"}');
+INSERT INTO gra.logs (id, text) VALUES (13, '{"id":null,"username":"Piotrd","newusername":null,"password":"1","registertime":null,"online":null,"coins":null,"code":null,"email":"x@x.pl"}');

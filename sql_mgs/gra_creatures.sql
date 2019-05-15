@@ -1,0 +1,10 @@
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (1, 'Blapity', 'ic_creature1.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (2, 'Pimki', 'ic_creature2.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (3, 'Fluszbery', 'ic_creature3.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (4, 'Bedlamit', 'ic_creature4.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (5, 'Dubi', 'ic_creature5.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (6, 'Rodend', 'ic_creature6.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (7, 'Ramires', 'ic_creature7.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (8, 'Platypus', 'ic_creature8.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (9, 'Momo', 'ic_creature9.png', 0);
+INSERT INTO gra.creatures (id, name, image, sex) VALUES (10, 'Ares', 'ic_creature10.png', 0);
